@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "787853588740",
+    "project_id": "ok-edu-kz",
+    "storage_bucket": "ok-edu-kz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787853588740:android:953b59ec575785b7117851",
+        "android_client_info": {
+          "package_name": "com.example.ok_edus_kz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787853588740-s27e3i61k4l69t4nhq4qh4astg5gnod2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPNOSbt93y6xl05b4099bynYqk_39tyMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787853588740-s27e3i61k4l69t4nhq4qh4astg5gnod2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "787853588740-9h2sdhiehgir6021qnfd39pt52pbhu0p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.okEdusKz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787853588740:android:3aaa1f7e90f62dd6117851",
+        "android_client_info": {
+          "package_name": "com.example.oku_edus_kz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787853588740-s27e3i61k4l69t4nhq4qh4astg5gnod2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPNOSbt93y6xl05b4099bynYqk_39tyMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787853588740-s27e3i61k4l69t4nhq4qh4astg5gnod2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "787853588740-9h2sdhiehgir6021qnfd39pt52pbhu0p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.okEdusKz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
